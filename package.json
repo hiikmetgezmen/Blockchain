@@ -19,6 +19,8 @@
   "homepage": "https://github.com/hiikmetgezmen/Blockchain#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "crypto-js": "^4.1.1"
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "ws": "^8.10.0"
   }
 }
